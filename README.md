@@ -53,7 +53,7 @@ Here are the five queries included in the `queries.sql` file:
 1.  **Prerequisites**: Make sure you have a running SQL database server (like MySQL, PostgreSQL, or SQLite).
 2.  **Clone the Repository**:
     ```sh
-    git clone <your-repository-url>
+    git clone https://github.com/gauravludhiana/DBMS-1/
     ```
 3.  **Build the Database**: Connect to your database server using a tool like MySQL Workbench, DBeaver, or the command line. Execute the `database_schema.sql` script to create the tables.
 4.  **Populate the Database**: Run the `database_data.sql` script to insert the sample data into the tables.
