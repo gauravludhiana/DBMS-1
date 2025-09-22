@@ -58,3 +58,6 @@ Here are the five queries included in the `queries.sql` file:
 3.  **Build the Database**: Connect to your database server using a tool like MySQL Workbench, DBeaver, or the command line. Execute the `database_schema.sql` script to create the tables.
 4.  **Populate the Database**: Run the `database_data.sql` script to insert the sample data into the tables.
 5.  **Run Queries**: Execute the `queries.sql` script to see the results of the sample business queries.
+
+
+Video: https://drive.google.com/file/d/1OkRJ_z27bE11mnBSJfeA0p1B1cUdxoyX/view?usp=sharing
